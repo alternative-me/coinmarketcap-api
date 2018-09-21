@@ -3,7 +3,7 @@
 const fetch = require('node-fetch')
 const qs = require('qs')
 
-const BASE_URL = 'https://api.coinmarketcap.com'
+const BASE_URL = 'https://api.alternative.me'
 
 class CoinMarketCap {
   /**
